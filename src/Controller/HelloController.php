@@ -5,7 +5,7 @@
  * Provides basic hello world message functionality.
  */
 
-namespace Drupal\madison_example_one\Controller;
+namespace Drupal\royal_example_one\Controller;
 
 use Drupal\Core\Controller\ControllerBase;
 
